@@ -10,7 +10,5 @@ See http://swsecurity.ml in details !
 .kp co.kp com.kp edu.kp gov.kp net.kp org.kp rep.kp
 ~~~
 
-## 2. Redstar OS
-   Ver1.0: Red Hat 4.1, Ver2.0: Kernel 2.6.25-14, Ver3.0: Kernel 2.6.38.
-
+## 2. Redstar OS and Browser
 ![redstar](https://github.com/dasekang/North-Korea-SW/blob/master/redstar.png)
