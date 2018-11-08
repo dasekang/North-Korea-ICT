@@ -1,0 +1,32 @@
+# /usr/sbin/rootseting
+
+# cat /etc/*-release
+<<붉은별>> 사용자용체계 3.0판
+<<붉은별>> 봉사기용체계 3.0(갱신판 1)
+# unmae -r
+2.6.38.24. rs3.0 i686
+2.6.32-201305.RSS3.i686
+
+# getenforce 
+Enforcing
+
+# sestatus
+SELinux status: enabled
+Policy version: 24
+
+#service sshd start
+#ifconfig
+
+#netstat -anlp
+
+snort 2.8.0.1(Build 72)
+pilsung, AES, Twofish, Blowfish
+
+alias=pilsung core 
+license=Dual BSD/GPL 
+description=Rijndael (PILSUNG) Cipher Algorithm 
+srcversion=37EBD8631529075CCDB0148  
+vermagic=2.6.38.8-24.rs3.0.i686 SMP mod_unload 686
+GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+
+
