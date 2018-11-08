@@ -12,8 +12,10 @@
 ~~~
 
 ## 2. Redstar OS and Browser
+~~~
 Linux Kernel: 2.6.38.8-24 rs3.0.i686
 OpenSSL: 0.9.8g(2005.7.)
+~~~
 
    ### Security
 ~~~
