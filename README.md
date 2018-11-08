@@ -3,6 +3,7 @@
 "See http://swsecurity.ml in details!"
 
 “Deny All, Permit Some”
+
 Cyber War: The Next Threat to National Security and What to Do About It 
 
 ## 1. North Korea Internet
