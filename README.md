@@ -31,4 +31,4 @@ PYTHON 2.6
 
 ## 3. Related Papers
 
-## "See http://swsecurity.ml in details!"
+"See http://swsecurity.ml in details!"
