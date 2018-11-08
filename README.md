@@ -1,8 +1,6 @@
 # North Korea ICT 
 
-"See http://swsecurity.ml in details!"
-
-“Deny All, Permit Some”
+### “Deny All, Permit Some”
 
 ## 1. North Korea Internet
 ~~~
@@ -13,15 +11,24 @@
 
 ## 2. Redstar OS and Browser
 ~~~
+Red Hat 4.1
+Linux Kernel: 2.6.25-14 0.i686
 Linux Kernel: 2.6.38.8-24 rs3.0.i686
 OpenSSL: 0.9.8g(2005.7.)
+Crosswin -> 만능
+비루스 왁찐 -> 클락새
 ~~~
 
    ### Security
 ~~~
-SELinux, PYTHON 2.6
-SNORT 2.8.0.1 (Build 72)
-BOGEM, rtscan
+SELinux
+SNORT 2.8.0.1(Build 72)
+BOGEM(pilsung, AES, twofish)
+(pilsung) Rijndael Cipher Algorithm
+(rtscan) Real Time Monitoring Module
+PYTHON 2.6
 ~~~ 
 
 ## 3. Related Papers
+
+## "See http://swsecurity.ml in details!"
