@@ -13,4 +13,4 @@ See http://swsecurity.ml in details !
 ## 2. Redstar OS
    Ver1.0: Red Hat 4.1, Ver2.0: Kernel 2.6.25-14, Ver3.0: Kernel 2.6.38.
 
-![redstar](D:/100_Best/100 CLASS/redstar.jpeg)
+![redstar](https://github.com/dasekang/North-Korea-SW/blob/master/redstar.png)
