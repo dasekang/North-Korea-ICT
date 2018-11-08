@@ -13,7 +13,7 @@
 ~~~
 
 ## 2. Redstar OS and Browser
-![redstar](https://github.com/dasekang/North-Korea-SW/blob/master/redstar.png)
+![redstar]
 Linux Kernel: 2.6.38.8-24 rs3.0.i686
 OpenSSL: 0.9.8g(2005.7.)
 
@@ -21,7 +21,5 @@ OpenSSL: 0.9.8g(2005.7.)
 ~~~
 SELinux, PYTHON 2.6
 SNORT 2.8.0.1 (Build 72)
-BOGEM: PILSUNG(256), AES, TWOFISH, BLOWFISH
-(PILSUNG) Rijndael Cipher Algorithm, GCC: (GNU) 4.4.0 20090506(Red Hat 4.4.0-4), Dual BSD/GPL 
-(rtscan) Real Time Monitoring Module, Real Time Monitoring Module, GPL   
+BOGEM, rtscan
 ~~~ 
