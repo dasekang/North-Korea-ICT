@@ -1,7 +1,5 @@
 # North Korea ICT 
 
-### “Deny All, Permit Some”
-
 ## 1. North Korea Internet
 ~~~
 175.45.176.0 – 175.45.179.255: 1,024 Star Joint Venture Co. (21 December 2009 이후)
