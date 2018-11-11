@@ -24,6 +24,7 @@ Linux Kernel: 2.6.32-201305.RSS3.i686
 빛발 3.0
 ~~~
 RedStar 3.0 Server - 'Shellshock' 'BEAM' / 'RSSMON' Command Injection
+
 https://www.exploit-db.com/exploits/40938/
 https://cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2014-6271
 
