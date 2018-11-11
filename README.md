@@ -17,7 +17,7 @@ Crosswin -> 만능
 비루스 왁찐 -> 클락새
 ~~~
 
-   ### Security
+## 3. Security
 ~~~
 SELinux
 SNORT 2.8.0.1(Build 72)
@@ -27,6 +27,9 @@ BOGEM(pilsung, AES, twofish)
 PYTHON 2.6
 ~~~ 
 
-## 3. References
+https://www.exploit-db.com/exploits/40938/
+
+
+## 4. References
 
 "See http://swsecurity.ml in details!"
