@@ -22,6 +22,8 @@ Crosswin -> 만능
 ~~~
 Linux Kernel: 2.6.32-201305.RSS3.i686
 ~~~
+RedStar 3.0 Server - 'Shellshock' 'BEAM' / 'RSSMON' Command Injection
+https://www.exploit-db.com/exploits/40938/
 
 ## 3. Security
 ~~~
@@ -32,10 +34,6 @@ BOGEM(pilsung, AES, twofish)
 (rtscan) Real Time Monitoring Module
 PYTHON 2.6
 ~~~ 
-
-RedStar 3.0 Server - 'Shellshock' 'BEAM' / 'RSSMON' Command Injection
-https://www.exploit-db.com/exploits/40938/
-
 
 ## 4. References
 
