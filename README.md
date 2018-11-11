@@ -8,6 +8,7 @@
 ~~~
 
 ## 2. Redstar OS and Browser
+### Redstar PC
 ~~~
 Red Hat 4.1
 Linux Kernel: 2.6.25-14 0.i686
@@ -15,6 +16,11 @@ Linux Kernel: 2.6.38.8-24 rs3.0.i686
 OpenSSL: 0.9.8g(2005.7.)
 Crosswin -> 만능
 비루스 왁찐 -> 클락새
+~~~
+
+### Redstar Server
+~~~
+Linux Kernel: 2.6.32-201305.RSS3.i686
 ~~~
 
 ## 3. Security
@@ -27,6 +33,7 @@ BOGEM(pilsung, AES, twofish)
 PYTHON 2.6
 ~~~ 
 
+RedStar 3.0 Server - 'Shellshock' 'BEAM' / 'RSSMON' Command Injection
 https://www.exploit-db.com/exploits/40938/
 
 
