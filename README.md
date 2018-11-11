@@ -35,6 +35,4 @@ BOGEM(pilsung, AES, twofish)
 PYTHON 2.6
 ~~~ 
 
-## 4. References
-
-"See http://swsecurity.ml in details!"
+"See http://swsecurity.ml !"
