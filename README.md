@@ -27,5 +27,3 @@ RedStar 3.0 Server - 'Shellshock' 'BEAM' / 'RSSMON' Command Injection
 ~~~
 
 ~~~ 
-
-"See http://swsecurity.ml !"
